@@ -1,0 +1,16 @@
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\bin\Debug\Tom Russian Roulette Assignment.exe.config
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\bin\Debug\Tom Russian Roulette Assignment.exe
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\bin\Debug\Tom Russian Roulette Assignment.pdb
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Tom Russian Roulette Assignment.csprojResolveAssemblyReference.cache
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Tom_Russian_Roulette_Assignment.Properties.Resources.resources
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Tom Russian Roulette Assignment.csproj.GenerateResource.Cache
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Tom Russian Roulette Assignment.exe
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Tom Russian Roulette Assignment.pdb
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Tom_Russian_Roulette_Assignment.LoginForm.resources
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Tom_Russian_Roulette_Assignment.HighScoreForm.resources
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Tom_Russian_Roulette_Assignment.RouletteForm.resources
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\bin\Debug\Interop.WMPLib.dll
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\bin\Debug\AxInterop.WMPLib.dll
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Interop.WMPLib.dll
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\AxInterop.WMPLib.dll
+\\telmar\users\TM060\My Documents\Visual Studio 2015\Projects\C# 2016\Tom Russian Roulette Assignment\Tom Russian Roulette Assignment\obj\Debug\Tom Russian Roulette Assignment.csproj.ResolveComReference.cache
